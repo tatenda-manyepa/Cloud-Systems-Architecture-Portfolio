@@ -1,100 +1,26 @@
-# Cloud-Systems-Architecture-Portfolio
+# Cloud & AI Architecture Portfolio
 
-Hi, I’m Tatenda 👋🏽
+This portfolio showcases three enterprise-inspired architecture projects focused on cloud migration, AI-powered operations, and secure access management.
 
-This repository showcases my transition into **Solutions Architecture**, focusing on cloud-native system design, enterprise integration, and AI-enabled architecture patterns.
+The goal of this portfolio is to demonstrate my ability to think like a Solutions Architect: understanding business problems, designing scalable systems, explaining trade-offs, and applying cloud, AI, and security principles to real-world scenarios.
 
-My background spans enterprise production environments including:
-- Commercial banking systems infrastructure
-- Broadcast headend systems (Synamedia / Sky)
-- Warehouse automation and robotics platforms
-- Live incident management and cross-team engineering coordination
+## Flagship Projects
 
-These experiences have shaped my approach toward **building reliable, scalable, and operationally resilient systems**.
+### 1. Cloud Migration Architecture on AWS
+An anonymised, real-world inspired migration design showing how an on-premise customer system could be assessed, re-architected, and migrated to AWS.
 
-Alongside my professional work, I am actively designing and building architecture-focused projects that reflect real-world enterprise challenges.
+### 2. AI-Powered Operations Intelligence Platform / UOIP
+A platform design that brings together support tickets, documentation, logs, and AI agents to help operations teams troubleshoot issues faster and more consistently.
 
----
+### 3. Enterprise Secrets Management & Access Control System
+A secure system for storing, sharing, rotating, and auditing secrets across teams, with RBAC, reminders, and access governance.
 
-# 🚀 Core Focus Areas
+## Core Themes
 
-- Cloud Architecture (AWS-focused)
-- Enterprise System Design
-- Hybrid Infrastructure Migration
-- Integration Architecture (APIs, external systems)
-- AI-Enabled System Design (RAG, automation, intelligent workflows)
-- Reliability, scalability, and operational resilience
-
----
-
-# 🧠 Flagship Projects
-
-## 01 — Unified Operations Intelligence Platform (UOIP)
-A modular enterprise operations platform designed to unify troubleshooting knowledge, automate workflows, manage credentials securely, and improve incident resolution across enterprise systems.
-
-### Key Architecture Principles:
-- Modular, API-first design
-- Standalone core system with integration layer
-- Scalable workflow and incident management engine
-- AI-ready architecture for future intelligence layers
-
-### Future AI Enhancements:
-- RAG-based troubleshooting assistant
-- AI log analysis and anomaly explanation
-- Automated RCA generation
-- Intelligent workflow recommendations
-
-📁 [View Project](./01-uoin-platform)
-
----
-
-## 02 — Cloud Migration Proof of Concept (On-Prem → AWS)
-A structured migration design project simulating the transition of enterprise on-premise infrastructure into a scalable AWS-based cloud architecture.
-
-### Focus Areas:
-- Current-state system analysis
-- Target AWS architecture design
-- Migration strategy and phased rollout
-- Cost and operational impact analysis
-- Security and resilience design
-
-📁 [View Project](./02-migration-poc)
-
----
-
-# 🧩 Shared Assets
-
-This section contains reusable architecture assets including:
-- System design diagrams
-- Architecture templates
-- Reference models for AWS and hybrid systems
-
-📁 [View Assets](./shared-assets)
-
----
-
-# 🎯 What This Portfolio Demonstrates
-
-This repository is not a collection of notes—it is a structured representation of how I approach system design problems:
-
-- Breaking down complex enterprise systems
-- Designing modular and scalable architectures
-- Planning cloud migration strategies
-- Integrating AI into operational systems
-- Thinking in terms of reliability, security, and scale
-
----
-
-# 🚀 Career Direction
-
-I am actively transitioning into a **Solutions Architect role specialising in AWS, cloud infrastructure, and AI-enabled system design**, where I can combine real-world operational experience with scalable architecture design.
-
----
-
-# 📫 Contact
-
-Open to opportunities in:
-- Solutions Architecture
-- Cloud Engineering
-- Technical Consulting
-- AI-enabled Systems Design
+- AWS cloud architecture
+- AI-powered operations
+- Enterprise security
+- Migration strategy
+- Systems thinking
+- Scalability, reliability, cost, and governance
+- Architect-level communication
